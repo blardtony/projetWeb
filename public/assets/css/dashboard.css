@@ -1,0 +1,130 @@
+.border-dark {
+    border-top: 0px;
+    border-right: 2px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-style: solid;
+    border-color: #ebebeb !important;
+}
+
+.spacer-menu-top {
+    padding-top: 20%;
+}
+
+.spacer-menu-between {
+    padding-top: 135%;
+}
+
+.spacer-menu-end {
+    padding-top: 19%;
+}
+
+.btn-menu {
+    margin: 1% 0% 0% 0%;
+    padding: 8% 5% 8% 5%;
+    background-color: white;
+    width: 80%;
+    text-align: left;
+    background-size: 12%;
+    background-repeat: no-repeat;
+    background-position: 13% 50%;
+    text-indent: 25%;
+}
+
+.btn-match {
+    background-image: url("/DiamondDogsProject/public/assets/img/ball-icon.png");
+}
+
+.btn-ranking {
+    background-image: url("/DiamondDogsProject/public/assets/img/trophy-icon.png"); 
+}
+
+.btn-profil {
+    background-image: url("/DiamondDogsProject/public/assets/img/profil-icon.png"); 
+}
+
+.btn-score {
+    background-image: url("/DiamondDogsProject/public/assets/img/ground-icon.png"); 
+}
+
+.btn-setting {
+    background-image: url("/DiamondDogsProject/public/assets/img/setting-icon.png"); 
+}
+
+.btn-logout {
+    background-image: url("/DiamondDogsProject/public/assets/img/logout-icon.png");
+    color: black;
+    font-size: medium;
+    text-indent: 26%;
+}
+
+.btn-menu:hover {
+    background-color: #4f93f828;
+}
+
+.btn-logout:hover {
+    background-color: #ff00002a;
+}
+
+.title {
+    margin-left:-11%;
+    margin-bottom: 10%;
+    font-size: large;
+}
+
+.score {
+    margin-bottom: 10%;
+    margin-left: -11%;
+    font-size: x-large;
+}
+
+.spacer-content-top {
+    padding-top: 4%;
+}
+
+.spacer-content-between {
+    padding-top: 3%;
+}
+
+.spacer-content-top-me {
+    padding-top: 6%;
+}
+
+.btn-add {
+    width: 15%;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+.btn-create {
+    width: 30%;
+    margin-left: 40%;
+    margin-top: 8%;
+}
+
+.btn-confirm {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 8%;
+}
+
+.btn-update {
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.btn-user {
+    width: 20%;
+    margin-top: 5%;
+    margin-left: -11%;
+}
+
+.btn-settings {
+    margin-left: -11%;
+    width: 20%;
+}
+
+.spacer-setting-top {
+    padding-top: 12%;
+}

@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "Controller/",
+            "Model\\": "Model/",
+            "Exceptions\\": "Exceptions/",
+            "Router\\": "Router/",
+            "Configuration\\": "Configuration/",
+            "Database\\": "Database/",
+            "Mail\\": "Mail/",
+            "Validation\\": "Validation/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.7"
+    }
+}
